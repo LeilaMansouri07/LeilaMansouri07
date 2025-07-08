@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Leila 👋
 
-<!--
-**LeilaMansouri07/LeilaMansouri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering graduate from IAU, passionate about backend development, clean code, and learning new technologies.
 
-Here are some ideas to get you started:
+### 👨‍💻 What I Do
+- Java Backend Developer (Spring Boot, REST APIs)
+- MySQL and database design
+- Frontend basics with React (course completed)
+- Git version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Tech Stack
+- Languages: Java
+- Frameworks: Spring Boot, React
+- Tools: Git, MySQL, Postman, IntelliJ IDEA
+
+### 🌱 Goals for 2025
+- Build 3-5 strong real-world Java projects
+- Contribute to open-source
+
+### 📫 How to reach me
+- Email: Leila.mansouri07@gmail.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
