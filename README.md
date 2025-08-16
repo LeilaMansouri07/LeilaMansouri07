@@ -4,7 +4,7 @@ I'm a software engineering graduate from IAU, passionate about backend developme
 
 ### 👨‍💻 What I Do
 - Java Backend Developer (Spring Boot, REST APIs)
-- MySQL and database design
+- MySQL 
 - Frontend basics with React (course completed)
 - Git version control
 
