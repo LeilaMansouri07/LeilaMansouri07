@@ -20,10 +20,3 @@ and software development.
 - Jira, Zabbix
 - Tableau
 
-
-### 📫 How to reach me
-- Email: Leila.mansouri07@gmail.com
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
