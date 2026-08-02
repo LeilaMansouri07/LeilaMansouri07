@@ -1,21 +1,25 @@
 # Hi, I'm Leila 👋
 
-I'm a software engineering graduate from IAU, passionate about backend development, clean code, and learning new technologies.
+M.Sc. Computer Science student at RPTU Kaiserslautern with experience in
+enterprise IT projects, requirements engineering, service operations,
+and software development.
 
-### 👨‍💻 What I Do
-- Java Backend Developer (Spring Boot, REST APIs)
-- MySQL 
-- Frontend basics with React (course completed)
-- Git version control
+## Current interests
+- Applied research
+- Data analysis and machine learning
+- Computer vision
+- Enterprise software systems
+- Technical project coordination
 
-### 📌 Tech Stack
-- Languages: Java
-- Frameworks: Spring Boot, React
-- Tools: Git, MySQL, Postman, IntelliJ IDEA
+## Technical background
+- Java, Spring Boot, Hibernate/JPA
+- C++, Qt
+- Python, NumPy, Pandas
+- MySQL, Oracle Database
+- Git, GitHub, GitLab
+- Jira, Zabbix
+- Tableau
 
-### 🌱 Goals for 2025
-- Build 3-5 strong real-world Java projects
-- Contribute to open-source
 
 ### 📫 How to reach me
 - Email: Leila.mansouri07@gmail.com
